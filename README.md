@@ -8,5 +8,5 @@ Our presentation outlining our development process can be found <a href="Strande
 More details regarding the structure of the game jam can be found <a href="Teaching Structure.docx" target="_blank">here</a>.  
 Source code and executable available upon request.
 
-###### A gameplay trailer I directed and edited after the game jam:
+### A gameplay trailer I directed and edited after the game jam:
 [![Trailer](https://img.youtube.com/vi/aVrqPTUwLcc/0.jpg)](https://www.youtube.com/watch?v=aVrqPTUwLcc "Trailer")
